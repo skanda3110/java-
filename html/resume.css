@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    /* text-align: center; */
+}
+ul{
+    font-size: 25px;
+}
+.a{
+    font-size: 20px;
+    margin-left: -30px;
+}
+.b{
+    font-size: 16px;
+}
+.c{
+    margin-left: -30px;
+}
+.d{
+    font-size: 20px;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
